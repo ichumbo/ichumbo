@@ -1,9 +1,9 @@
 
 > ## 👦🏽 About me
 
-I am currently a program in development, I am in an internship period and I am doing realization.
+I'm currently a programmer under construction, I'm in an internship period and I'm doing realization.
 
-I work in the area as Front-End and Back-end study to consolidate a Full-stack.
+I work in the area learning as Front-end and Back-end, in order to consolidate a Full-stack.
 
 ##
 
