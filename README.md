@@ -1,4 +1,10 @@
-### Olá, me chamo Ian Melo e sou um programador em construção 👨🏽‍💻
+
+## 🐱‍🐉 Sobre mim
+
+**Sou um programador em desenvolvimento, estagiando e cursando a faculdade. 
+Atualmente atuo na área como Front-End e atualmente estudando o Back-end para assim se tornar um Full-stack**
+
+##
 
 <div align="center">
   <a href="https://github.com/ichumbo">
