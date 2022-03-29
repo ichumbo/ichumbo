@@ -1,5 +1,5 @@
 
-> ## 🐱‍🐉 About me
+> ## 👦🏽 About me
 
 **I am currently a program in development, I am in an internship period and I am doing realization.
 
