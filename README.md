@@ -1,7 +1,9 @@
 
 > ## 🐱‍🐉 About me
 
-**I'm a developing programmer, intern and attending college. I currently work in the area as a Front-End and currently studying the Back-end to become a Full-stack**
+**I am currently a program in development, I am in an internship period and I am doing realization.
+
+I work in the area as Front-End and Back-end study to consolidate a Full-stack.**
 
 ##
 
