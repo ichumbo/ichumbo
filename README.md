@@ -1,13 +1,13 @@
 
-> ## 👦🏽 About me
+>🧔🏾 Sobre mim
 
-I'm currently a programmer under construction, I'm in an internship period and I'm doing realization.
+Atualmente sou programador em construção, ato como júnior na área de front-end.
 
-I work in the area learning as Front-end and Back-end, in order to consolidate a Full-stack.
+Atuo na área aprendendo como Front-end e Back-end, a fim de consolidar um Full-stack.
 
 ##
 
-<div align="center">
+<div>
   <a href="https://github.com/ichumbo">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ichumbo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ichumbo&layout=compact&langs_count=7&theme=tokyonight"/>
