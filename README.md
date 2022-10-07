@@ -3,7 +3,7 @@
 <div>
   <p align="center">Olá! Tudo bem? 🧔🏾</p>
   <p align="center">Visite meu <a href="https://ichumbo.github.io"><i>Portfólio</i></a></p>
-  <p align="center">Meu nome é <a href="https://www.linkedin.com/in/ian-melo-a90558216/"><i>Ian Melo</i></a> mas pode me chamar de Chumbo, eu estudo Desenvolvimento Web e atuo cmo Front-end Júnior</p>
+  <p align="center">Meu nome é <a href="https://www.linkedin.com/in/ichumbo/"><i>Ian Melo</i></a> mas pode me chamar de Chumbo, eu estudo Desenvolvimento Web e atuo cmo Front-end Júnior</p>
   <p align="center">Atualmente faço faculdade de Engenharia da computação e cursos para virar um Full-stack futuramente 👨🏾‍💻</p>
   <p align="center">A maioria dos meus cursos eu fiz na <a href="https://www.origamid.com/"><i>Origamid</i></a> 🐺</p>
 </div>
@@ -32,7 +32,7 @@
   <a href="https://instagram.com/ichumbo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:ian.mellofla@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   <a href="https://twitter.com/IanMelw" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ian-melo-a90558216/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ichumbo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
   
   ![Snake animation](https://github.com/ichumbo/ichumbo/blob/output/github-contribution-grid-snake.svg)
