@@ -5,7 +5,6 @@
   <p align="center">Visite meu <a target="_blank" href="https://ichumbo.github.io"><i>Portfólio</i></a></p>
   <p align="center">Meu nome é <a target="_blank" href="https://www.linkedin.com/in/ichumbo/"><i>Ian Melo</i></a> mas pode me chamar de Chumbo, eu estudo Desenvolvimento Web e atuo como Front-end</p>
   <p align="center">Atualmente faço faculdade de Engenharia da computação e cursos para virar um Full-stack futuramente, trabalho fazendo manutenção, criando novos sites e com banco de dados, deixando um sistema com um visual atualizado e responsivo com as linguagens de front-end e de back-end. 👨🏾‍💻</p>
-  <p align="center">A maioria dos meus cursos eu fiz na <a target="_blank" href="https://www.origamid.com/"><i>Origamid</i></a> 🐺</p>
 </div>
 
 
