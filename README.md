@@ -2,7 +2,7 @@
 
 <div>
   <p align="center">Olá! Tudo bem? 🧔🏾</p>
-  <p align="center">Visite meu <a target="_blank" href="https://ichumbo.github.io"><i>Portfólio</i></a></p>
+  <p align="center">Visite meu <a target="_blank" href="https://ichumbo.github.io/Portfolio/"><i>Portfólio</i></a></p>
   <p align="center">Meu nome é <a target="_blank" href="https://www.linkedin.com/in/ichumbo/"><i>Ian Melo</i></a> mas pode me chamar de Chumbo, eu estudo Desenvolvimento Web e atuo como Front-end</p>
   <p align="center">Atualmente faço faculdade de Engenharia da computação e cursos para virar um Full-stack futuramente, trabalho fazendo manutenção, criando novos sites e com banco de dados, deixando um sistema com um visual atualizado e responsivo com as linguagens de front-end e de back-end. 👨🏾‍💻</p>
 </div>
@@ -34,6 +34,5 @@
   <a href="https://www.linkedin.com/in/ichumbo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
   
-  ![Snake animation](https://github.com/ichumbo/ichumbo/blob/output/github-contribution-grid-snake.svg)
   
   
