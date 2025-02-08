@@ -1,10 +1,9 @@
 
 
 <div>
-  <p align="center">Olá! Tudo bem? 🧔🏾</p>
+  <p align="center">👋 Olá! Eu sou o <a target="_blank" href="https://www.linkedin.com/in/ichumbo/"><i>Ian Melo</i></a>, mas pode me chamar de Chumbo. Sou estudante de Engenharia da Computação e apaixonado por Desenvolvimento Web. Atualmente, atuo como Front-end e estou me aprimorando para me tornar Full-stack. 🚀</p>
   <p align="center">Visite meu <a target="_blank" href="https://ichumbo-portfolio.netlify.app/"><i>Portfólio</i></a></p>
-  <p align="center">Meu nome é <a target="_blank" href="https://www.linkedin.com/in/ichumbo/"><i>Ian Melo</i></a> mas pode me chamar de Chumbo, eu estudo Desenvolvimento Web e atuo como Front-end</p>
-  <p align="center">Atualmente faço faculdade de Engenharia da computação e cursos para virar um Full-stack futuramente, trabalho fazendo manutenção, criando novos sites e com banco de dados, deixando um sistema com um visual atualizado e responsivo com as linguagens de front-end e de back-end. 👨🏾‍💻</p>
+  <p align="center">💻 Trabalho criando e mantendo sites, cuidando de bancos de dados e garantindo que os sistemas tenham uma aparência moderna e sejam responsivos. Estou sempre em busca de novos desafios e aprendizados para melhorar minhas habilidades em desenvolvimento web.</p>
 </div>
 
 
