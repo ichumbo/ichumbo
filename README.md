@@ -8,11 +8,11 @@ Atualmente, curso <strong>Engenharia da Computação</strong> e atuo como <stron
 
 <p align="left" style="display:flex;gap:10px;align-items:center;">
     <span>⚙️ <strong>Linguagens:</strong></span><br>
-    <img src="https://img.shields.io/badge/React-6c48e7?style=for-the-badge&logo=react&logoColor=white" alt="React" min-width="90" max-width="90" width="90">
-    <img src="https://img.shields.io/badge/Laravel-6c48e7?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" min-width="80px" max-width="80px" width="107">
-    <img src="https://img.shields.io/badge/PHP-6c48e7?style=for-the-badge&logo=php&logoColor=white" alt="PHP" min-width="80px" max-width="80px" width="107">
-    <img src="https://img.shields.io/badge/Elementor-6c48e7?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor" min-width="80px" max-width="80px" width="107">
-    <img src="https://img.shields.io/badge/TypeScript-6c48e7?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" min-width="80px" max-width="80px" width="107">
+    <img src="https://img.shields.io/badge/React-6c48e7?style=for-the-badge&logo=react&logoColor=white" alt="React" min-width="90" max-width="90" width="92">
+    <img src="https://img.shields.io/badge/Laravel-6c48e7?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" min-width="80px" max-width="80px" width="108">
+    <img src="https://img.shields.io/badge/PHP-6c48e7?style=for-the-badge&logo=php&logoColor=white" alt="PHP" min-width="80px" max-width="80px" width="75">
+    <img src="https://img.shields.io/badge/Elementor-6c48e7?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor" min-width="80px" max-width="80px" width="130">
+    <img src="https://img.shields.io/badge/TypeScript-6c48e7?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" min-width="80px" max-width="80px" width="140">
     <img src="https://img.shields.io/badge/WordPress-6c48e7?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" min-width="90" max-width="90" width="142">
 </p>
 
@@ -27,7 +27,7 @@ Atualmente, curso <strong>Engenharia da Computação</strong> e atuo como <stron
     <span>🏭 <strong>Aplicativo:</strong></span><br>
     <img src="https://img.shields.io/badge/Flutter-6c48e7?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" min-width="80px" max-width="80px" width="100">
     <img src="https://img.shields.io/badge/Tailwind-6c48e7?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" min-width="80px" max-width="80px" width="112">
-    <img src="https://img.shields.io/badge/ReactNative-6c48e7?style=for-the-badge&logo=reactos&logoColor=white" alt="ReactNative" min-width="80px" max-width="80px" width="107">
+    <img src="https://img.shields.io/badge/ReactNative-6c48e7?style=for-the-badge&logo=reactos&logoColor=white" alt="ReactNative" min-width="80px" max-width="80px" width="132">
 </p>
 
 <p align="left">
