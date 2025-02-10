@@ -1,35 +1,53 @@
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
+<p align="left"> 
+    Olá, meu nome é Ian Melo e sou <strong>Desenvolvedor Frontend & Designer</strong>.<br>  
+  Atuo na criação de <strong>E-commerces</strong> e <strong>Aplicativos</strong>, com foco em interfaces modernas, intuitivas e responsivas. Minha stack principal inclui <strong>React.JS</strong>, <strong>React Native</strong> e <strong>WordPress</strong>. <br>  
+  Sou estudante de <strong>Engenharia da Computação</strong> e trabalho como <strong>freelancer</strong>, criando soluções digitais otimizadas para diferentes negócios. No meu dia a dia, utilizo ferramentas como <strong>JavaScript</strong>, <strong>React.JS</strong>, <strong>React Native</strong> e <strong>WordPress</strong> para desenvolver experiências digitais eficientes e inovadoras.  
 
-<div>
-  <p align="center">👋 Olá! Eu sou o <a target="_blank" href="https://www.linkedin.com/in/ichumbo/"><i>Ian Melo</i></a>, mas pode me chamar de Chumbo. Sou estudante de Engenharia da Computação e apaixonado por Desenvolvimento Web. Atualmente, atuo como Front-end e estou me aprimorando para me tornar Full-stack. 🚀</p>
-  <p align="center">Visite meu <a target="_blank" href="https://ichumbo-portfolio.netlify.app/"><i>Portfólio</i></a></p>
-  <p align="center">💻 Trabalho criando e mantendo sites, cuidando de bancos de dados e garantindo que os sistemas tenham uma aparência moderna e sejam responsivos. Estou sempre em busca de novos desafios e aprendizados para melhorar minhas habilidades em desenvolvimento web.</p>
-</div>
+</p>
 
+<p align="left" style="display:flex;gap:10px;align-items:center;">
+    <span>⚙️ <strong>Linguagens:</strong></span><br>
+    <img src="https://img.shields.io/badge/React-14354C?style=for-the-badge&logo=react&logoColor=white" alt="React" min-width="90" max-width="90" width="90">
+    <img src="https://img.shields.io/badge/WordPress%23-239120?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" min-width="38" max-width="38" width="38">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript" min-width="110" max-width="110" width="110">
+</p>
 
-##
+<p align="left" style="display:flex;gap:10px;align-items:center;">
+    <span>📁 <strong>Frontend:</strong></span><br>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Html" min-width="80" max-width="80" width="80">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" min-width="75" max-width="75" width="75">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript" min-width="110" max-width="110" width="110">
+</p>
 
-<div align="center">
-  <a href="https://github.com/ichumbo">
-   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ichumbo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ichumbo&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-<div align="center" valign="top"><br>
-  <img align="center" alt="ian-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="ian-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="ian-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="ian-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="ian-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-</div>
-  
-  ##
-  
-  <div align="center"> 
-  <a href="https://instagram.com/ichumbo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:ian.mellofla@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-  <a href="https://twitter.com/IanMelw" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ichumbo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  </div>
-  
-  
-  
+<p align="left" style="display:flex;gap:10px;align-items:center;">
+    <span>🏭 <strong>Aplicativo:</strong></span><br>
+    <img src="https://img.shields.io/badge/Flutter-6DB33F?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" min-width="80px" max-width="80px" width="80px">
+    <img src="https://img.shields.io/badge/Tailwind-092E20?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" min-width="80px" max-width="80px" width="80px">
+    <img src="https://img.shields.io/badge/Reactos-000000?style=for-the-badge&logo=reactos&logoColor=white" alt="Reactos" min-width="80px" max-width="80px" width="80px">
+</p>
+
+<p align="left">
+<span>📖 <strong>Alguns Sites: </strong></span><br>
+    <img src="./images/1.png" width=300 height=200>
+    <img src="./images/2.png" width=300 height=200>
+    <img src="./images/3.png" width=300 height=200>
+    <img src="./images/4.png" width=300 height=200>
+    <img src="./images/5.png" width=300 height=200>
+    <img src="./images/6.png" width=300 height=200>
+</p>
+
+<p align="left">
+  💌 Contatos para falar comigo: ⤵️
+</p>
+
+<p align="left">
+  <a href="mailto:contato.ichumbo@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/ichumbo/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://wa.me/5521977188050" title="Whatsapp">
+  <img src="https://img.shields.io/badge/-Whatsapp-0e76a8?style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"/></a>
+</p>
+
