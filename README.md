@@ -10,7 +10,7 @@
 <p align="left" style="display:flex;gap:10px;align-items:center;">
     <span>⚙️ <strong>Linguagens:</strong></span><br>
     <img src="https://img.shields.io/badge/React-14354C?style=for-the-badge&logo=react&logoColor=white" alt="React" min-width="90" max-width="90" width="90">
-    <img src="https://img.shields.io/badge/WordPress%23-239120?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" min-width="38" max-width="38" width="38">
+    <img src="https://img.shields.io/badge/WordPress%23-239120?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" min-width="90" max-width="90" width="90">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript" min-width="110" max-width="110" width="110">
 </p>
 
@@ -30,12 +30,12 @@
 
 <p align="left">
 <span>📖 <strong>Alguns Sites: </strong></span><br>
-    <img src="./images/1.png" width=300 height=200>
-    <img src="./images/2.png" width=300 height=200>
-    <img src="./images/3.png" width=300 height=200>
-    <img src="./images/4.png" width=300 height=200>
-    <img src="./images/5.png" width=300 height=200>
-    <img src="./images/6.png" width=300 height=200>
+    <img src="./images/1.png" width=350 height=200>
+    <img src="./images/2.png" width=350 height=200>
+    <img src="./images/3.png" width=350 height=200>
+    <img src="./images/4.png" width=350 height=200>
+    <img src="./images/5.png" width=350 height=200>
+    <img src="./images/6.png" width=350 height=200>
 </p>
 
 <p align="left">
