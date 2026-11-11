@@ -1,65 +1,97 @@
-# Ian Melo
-### Desenvolvedor Full Stack & Mobile
+<div align="center">
 
-Desenvolvo aplicações web e mobile, combinando engenharia de software e cuidado com a experiência de uso. Meu trabalho conecta interfaces, APIs e regras de negócio para transformar ideias em produtos digitais.
+  <sub>CODE BY IAN</sub>
 
-À frente da **Devstep**, atuo no desenvolvimento de sistemas, e-commerces e aplicativos — da definição da experiência à implementação e evolução do produto.
+  <h1>Ian Melo.</h1>
 
-[LinkedIn](https://www.linkedin.com/in/ichumbo/) · [E-mail](mailto:contato.ichumbo@gmail.com) · [Devstep](https://devstep.com.br)
+  <h3>Full Stack & Mobile Developer</h3>
 
----
+  <p>
+    Desenvolvimento de produtos digitais.<br>
+    Do cuidado com a interface à estrutura por trás dela.
+  </p>
 
-### O que eu desenvolvo
+  <br>
 
-- **Aplicações web:** plataformas, dashboards e sistemas de gestão.
-- **Aplicativos mobile:** experiências para iOS e Android com React Native e Expo.
-- **Back-end e integrações:** APIs, autenticação, pagamentos e regras de negócio.
-- **E-commerce:** lojas virtuais e funcionalidades personalizadas.
-- **Interfaces:** layouts responsivos com atenção à clareza, consistência e usabilidade.
+  <a href="https://ichumbo-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/PORTFÓLIO-6C48E7?style=for-the-badge" alt="Portfólio">
+  </a>
+  <a href="https://www.linkedin.com/in/ichumbo/">
+    <img src="https://img.shields.io/badge/LINKEDIN-242424?style=for-the-badge" alt="LinkedIn">
+  </a>
+  <a href="mailto:contato.ichumbo@gmail.com">
+    <img src="https://img.shields.io/badge/CONTATO-242424?style=for-the-badge" alt="E-mail">
+  </a>
 
-### Tecnologias
+</div>
 
-| Área | Tecnologias |
-| :--- | :--- |
-| Front-end | React · Next.js · TypeScript · JavaScript · Tailwind CSS |
-| Mobile | React Native · Expo |
-| Back-end | Laravel · PHP |
-| Banco de dados | MySQL · PostgreSQL |
-| CMS e e-commerce | WordPress · OpenCart · Magento |
+<br>
+<br>
 
----
+### Sobre
 
-### Projetos selecionados
+Sou Ian, desenvolvedor Full Stack & Mobile e fundador da **Devstep**.
+Crio aplicações web, aplicativos e e-commerces, conectando design,
+tecnologia e as necessidades de cada negócio.
 
-**Cofri — Gestão financeira**  
-Organização de contas, cartões, despesas e receitas, com recursos para acompanhar e planejar a vida financeira.  
-[Conhecer o projeto ↗](https://usecofri.com.br)
+Meu trabalho vai da interface às APIs e integrações, com atenção
+à experiência de uso e à evolução de cada produto.
 
-**DragonCorp — Gestão de treinos**  
-Plataforma para personal trainers e alunos, com treinos, avaliações e acompanhamento da evolução.  
-[Conhecer o projeto ↗](https://dragoncorp.com.br)
+<br>
 
-**Reservei — Agendamento e gestão**  
-Aplicação para organizar agendas, serviços e atendimentos, facilitando a rotina de profissionais e seus clientes.
+### Stack principal
 
-**NutriLib — Receitas e organização alimentar**  
-Plataforma de receitas com busca, categorias e favoritos para facilitar as escolhas do dia a dia.  
-[Conhecer o projeto ↗](https://nutrilib.com.br)
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-242424?style=flat-square&logo=typescript&logoColor=A78BFA" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-242424?style=flat-square&logo=react&logoColor=A78BFA" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-242424?style=flat-square&logo=nextdotjs&logoColor=A78BFA" alt="Next.js">
+  <img src="https://img.shields.io/badge/React_Native-242424?style=flat-square&logo=react&logoColor=A78BFA" alt="React Native">
+  <img src="https://img.shields.io/badge/Expo-242424?style=flat-square&logo=expo&logoColor=A78BFA" alt="Expo">
+  <img src="https://img.shields.io/badge/Laravel-242424?style=flat-square&logo=laravel&logoColor=A78BFA" alt="Laravel">
+  <img src="https://img.shields.io/badge/PHP-242424?style=flat-square&logo=php&logoColor=A78BFA" alt="PHP">
+  <img src="https://img.shields.io/badge/MySQL-242424?style=flat-square&logo=mysql&logoColor=A78BFA" alt="MySQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-242424?style=flat-square&logo=postgresql&logoColor=A78BFA" alt="PostgreSQL">
+</p>
 
----
+<br>
 
-### Como trabalho
+### Produtos que desenvolvo
 
-Busco entender o problema antes de definir a solução. Valorizo código legível, interfaces claras e decisões técnicas que façam sentido para o momento de cada produto.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>↗ Cofri</h3>
+      <p>Gestão financeira para organizar contas, acompanhar despesas e planejar objetivos.</p>
+      <a href="https://usecofri.com.br">Conhecer o projeto</a>
+      <br><br>
+    </td>
+    <td width="50%" valign="top">
+      <h3>↗ DragonCorp</h3>
+      <p>Treinos, avaliações e acompanhamento da evolução de alunos e personal trainers.</p>
+      <a href="https://dragoncorp.com.br">Conhecer o projeto</a>
+      <br><br>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>↗ Reservei</h3>
+      <p>Agendamento e gestão de serviços para simplificar a rotina de profissionais.</p>
+      <br>
+    </td>
+    <td width="50%" valign="top">
+      <h3>↗ NutriLib</h3>
+      <p>Receitas e organização alimentar para facilitar as escolhas do dia a dia.</p>
+      <a href="https://nutrilib.com.br">Conhecer o projeto</a>
+      <br><br>
+    </td>
+  </tr>
+</table>
 
-Tenho interesse em projetos nos quais possa contribuir tanto com a implementação quanto com as decisões que orientam a experiência e a evolução da aplicação.
+<br>
 
-### Vamos conversar
-
-Para oportunidades profissionais, colaboração em projetos ou desenvolvimento de produtos digitais:
-
-[LinkedIn](https://www.linkedin.com/in/ichumbo/) · [contato.ichumbo@gmail.com](mailto:contato.ichumbo@gmail.com) · [WhatsApp](https://wa.me/5521977188050)
-
----
-
-<sub>Ian Melo · Brasil · Code by Ian</sub>
+<div align="center">
+  <p>Vamos construir algo juntos?</p>
+  <a href="mailto:contato.ichumbo@gmail.com">contato.ichumbo@gmail.com</a>
+  <br><br>
+  <sub>Brasil &nbsp; · &nbsp; Ian Melo &nbsp; · &nbsp; Devstep</sub>
+</div>
