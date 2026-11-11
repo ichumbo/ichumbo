@@ -1,95 +1,54 @@
-# Ian Melo
-### Full Stack & Mobile Developer
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-Desenvolvo aplicações web, aplicativos e e-commerces, combinando interfaces bem cuidadas com APIs, bancos de dados e integrações.
+<p align="left"> 
+    Olá, meu nome é Ian Melo e sou <strong>Desenvolvedor Frontend & Designer</strong>.<br>  
+Especialista na criação de <strong>E-commerces</strong> e <strong>Aplicativos</strong> com interfaces modernas e responsivas. Trabalho com <strong>React.JS</strong>, <strong>React Native</strong> e <strong>WordPress</strong>, criando soluções digitais eficientes. <br>  
+Atualmente, curso <strong>Engenharia da Computação</strong> e atuo como <strong>freelancer</strong>, desenvolvendo experiências inovadoras para diversos negócios.  
+</p>
 
-Sou fundador da **Devstep** e atuo da concepção da interface à implementação das funcionalidades. Meu trabalho reúne desenvolvimento e design, com atenção à experiência de uso, organização do código e evolução dos produtos.
+<p align="left" style="display:flex;gap:10px;align-items:center;">
+    <span>⚙️ <strong>Linguagens:</strong></span><br>
+    <img src="https://img.shields.io/badge/React-6c48e7?style=for-the-badge&logo=react&logoColor=white" alt="React" min-width="90" max-width="90" width="92">
+    <img src="https://img.shields.io/badge/Laravel-6c48e7?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" min-width="80px" max-width="80px" width="108">
+    <img src="https://img.shields.io/badge/PHP-6c48e7?style=for-the-badge&logo=php&logoColor=white" alt="PHP" min-width="80px" max-width="80px" width="75">
+    <img src="https://img.shields.io/badge/Elementor-6c48e7?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor" min-width="80px" max-width="80px" width="130">
+    <img src="https://img.shields.io/badge/TypeScript-6c48e7?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" min-width="80px" max-width="80px" width="140">
+    <img src="https://img.shields.io/badge/WordPress-6c48e7?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" min-width="90" max-width="90" width="142">
+</p>
 
-[LinkedIn](https://www.linkedin.com/in/ichumbo/) · [E-mail](mailto:contato.ichumbo@gmail.com) · [Devstep](https://devstep.com.br)
+<p align="left" style="display:flex;gap:10px;align-items:center;">
+    <span>📁 <strong>Frontend:</strong></span><br>
+    <img src="https://img.shields.io/badge/HTML5-6c48e7?style=for-the-badge&logo=html5&logoColor=white" alt="Html" min-width="80" max-width="80" width="90">
+    <img src="https://img.shields.io/badge/CSS3-6c48e7?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" min-width="75" max-width="75" width="78">
+    <img src="https://img.shields.io/badge/JavaScript-6c48e7?style=for-the-badge&logo=javascript&logoColor=white" alt="Javascript" min-width="110" max-width="110" width="128">
+</p>
 
----
+<p align="left" style="display:flex;gap:10px;align-items:center;">
+    <span>🏭 <strong>Aplicativo:</strong></span><br>
+    <img src="https://img.shields.io/badge/Flutter-6c48e7?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" min-width="80px" max-width="80px" width="100">
+    <img src="https://img.shields.io/badge/Tailwind-6c48e7?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" min-width="80px" max-width="80px" width="112">
+    <img src="https://img.shields.io/badge/ReactNative-6c48e7?style=for-the-badge&logo=reactos&logoColor=white" alt="ReactNative" min-width="80px" max-width="80px" width="132">
+</p>
 
-## Tecnologias
+<p align="left">
+<span>📖 <strong>Alguns Sites: </strong></span><br>
+    <img src="./images/1.png" width=350 height=200>
+    <img src="./images/2.png" width=350 height=200>
+    <img src="./images/3.png" width=350 height=200>
+    <img src="./images/4.png" width=350 height=200>
+    <img src="./images/5.png" width=350 height=200>
+    <img src="./images/6.png" width=350 height=200>
+</p>
 
-| Área | Tecnologias |
-| :--- | :--- |
-| **Frontend** | TypeScript, JavaScript, React, Next.js, Tailwind CSS |
-| **Mobile** | React Native, Expo |
-| **Backend** | PHP, Laravel |
-| **Bancos de dados** | MySQL, PostgreSQL |
-| **CMS & E-commerce** | WordPress, OpenCart, Magento |
+<p align="left">
+  💌 Contatos para falar comigo: ⤵️
+</p>
 
-## Produtos em destaque
-
-### Cofri
-**Gestão financeira pessoal**
-
-Aplicação para organizar contas, acompanhar despesas e receitas e planejar objetivos financeiros.
-
-- Contas a pagar e receber, categorias e parcelamentos.
-- Gestão de cartões e acompanhamento financeiro.
-- Relatórios e visualizações para apoiar o planejamento.
-
-[Conheça o Cofri ↗](https://usecofri.com.br)
-
-### DragonCorp
-**Plataforma para personal trainers e alunos**
-
-Aplicativo voltado à organização de treinos, avaliações e acompanhamento da evolução dos alunos.
-
-- Prescrição e organização de treinos.
-- Avaliações, anamnese e acompanhamento de cargas.
-- Feedback e interação entre personal e aluno.
-
-[Conheça a DragonCorp ↗](https://dragoncorp.com.br)
-
-### Reservei
-**Agendamento e gestão de serviços**
-
-Produto para ajudar profissionais a organizar atendimentos e acompanhar a rotina do negócio.
-
-- Agenda e organização dos serviços.
-- Cadastro e histórico de clientes.
-- Gestão financeira relacionada aos atendimentos.
-
-[Conheça o Reservei ↗](https://site.usereservei.com.br)
-
-### NutriLib
-**Descoberta e organização de receitas**
-
-Plataforma de receitas com recursos para facilitar a busca e a organização de conteúdos culinários.
-
-- Busca e navegação por categorias.
-- Receitas, vídeos e favoritos.
-- Recursos de acesso gratuito e Premium.
-
-[Conheça a NutriLib ↗](https://nutrilib.com.br)
-
----
-
-## Experiência prática
-
-Minha atuação envolve diferentes etapas do desenvolvimento de produtos digitais:
-
-- **Interfaces:** implementação de layouts responsivos e componentes reutilizáveis.
-- **Aplicativos:** desenvolvimento mobile com React Native e Expo.
-- **Backend:** construção de APIs, regras de negócio e integração com bancos de dados.
-- **Integrações:** pagamentos, assinaturas, notificações e serviços externos.
-- **E-commerce:** personalização de lojas e desenvolvimento de funcionalidades.
-- **Design:** identidade visual e interfaces alinhadas à proposta de cada produto.
-
-## Como trabalho
-
-Busco entender o problema antes de definir a solução. Na implementação, priorizo clareza na interface, organização do código e decisões que facilitem a manutenção.
-
-Em projetos colaborativos, valorizo a troca entre design e desenvolvimento, a definição de responsabilidades e a documentação necessária para dar continuidade ao trabalho.
-
----
-
-## Vamos conversar?
-
-Tenho interesse em oportunidades como **desenvolvedor Full Stack e Mobile**, colaboração com equipes e desenvolvimento de produtos digitais.
-
-**Rio de Janeiro, Brasil**
-
-[LinkedIn](https://www.linkedin.com/in/ichumbo/) · [contato.ichumbo@gmail.com](mailto:contato.ichumbo@gmail.com)
+<p align="left">
+  <a href="mailto:contato.ichumbo@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-6c48e7?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/ichumbo/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-6c48e7?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://wa.me/5521977188050" title="Whatsapp">
+  <img src="https://img.shields.io/badge/-Whatsapp-6c48e7?style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"/></a>
+</p>
