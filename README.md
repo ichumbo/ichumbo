@@ -19,7 +19,6 @@ Atualmente, curso <strong>Engenharia da Computação</strong> e atuo como <stron
 <p align="left" style="display:flex;gap:10px;align-items:center;">
     <span>📁 <strong>Frontend:</strong></span><br>
     <img src="https://img.shields.io/badge/HTML5-6c48e7?style=for-the-badge&logo=html5&logoColor=white" alt="Html" min-width="80" max-width="80" width="90">
-    <img src="https://img.shields.io/badge/CSS3-6c48e7?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" min-width="75" max-width="75" width="78">
     <img src="https://img.shields.io/badge/JavaScript-6c48e7?style=for-the-badge&logo=javascript&logoColor=white" alt="Javascript" min-width="110" max-width="110" width="128">
 </p>
 
