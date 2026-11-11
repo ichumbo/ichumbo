@@ -11,7 +11,6 @@ Atualmente, curso <strong>Engenharia da Computação</strong> e atuo como <stron
     <img src="https://img.shields.io/badge/React-6c48e7?style=for-the-badge&logo=react&logoColor=white" alt="React" min-width="90" max-width="90" width="92">
     <img src="https://img.shields.io/badge/Laravel-6c48e7?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" min-width="80px" max-width="80px" width="108">
     <img src="https://img.shields.io/badge/PHP-6c48e7?style=for-the-badge&logo=php&logoColor=white" alt="PHP" min-width="80px" max-width="80px" width="75">
-    <img src="https://img.shields.io/badge/Elementor-6c48e7?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor" min-width="80px" max-width="80px" width="130">
     <img src="https://img.shields.io/badge/TypeScript-6c48e7?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" min-width="80px" max-width="80px" width="140">
     <img src="https://img.shields.io/badge/WordPress-6c48e7?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" min-width="90" max-width="90" width="142">
 </p>
