@@ -1,163 +1,95 @@
-<a href="https://ichumbo-portfolio.netlify.app/">
-  <img src="./images/banner-ian.png" width="100%" alt="Ian Melo — Full Stack & Mobile Developer">
-</a>
+# Ian Melo
+### Full Stack & Mobile Developer
 
-<p align="center">
-  <a href="https://ichumbo-portfolio.netlify.app/"><strong>PORTFÓLIO ↗</strong></a>
-  &nbsp;&nbsp; / &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ichumbo/"><strong>LINKEDIN ↗</strong></a>
-  &nbsp;&nbsp; / &nbsp;&nbsp;
-  <a href="mailto:contato.ichumbo@gmail.com"><strong>E-MAIL ↗</strong></a>
-  &nbsp;&nbsp; / &nbsp;&nbsp;
-  <a href="https://wa.me/5521977188050"><strong>WHATSAPP ↗</strong></a>
-</p>
+Desenvolvo aplicações web, aplicativos e e-commerces, combinando interfaces bem cuidadas com APIs, bancos de dados e integrações.
 
-<br>
+Sou fundador da **Devstep** e atuo da concepção da interface à implementação das funcionalidades. Meu trabalho reúne desenvolvimento e design, com atenção à experiência de uso, organização do código e evolução dos produtos.
 
-<sub>01 / SOBRE MIM</sub>
+[LinkedIn](https://www.linkedin.com/in/ichumbo/) · [E-mail](mailto:contato.ichumbo@gmail.com) · [Devstep](https://devstep.com.br)
 
-<h2>Design na interface.<br>Engenharia em cada detalhe.</h2>
+---
 
-<p>
-  Sou <strong>Ian Melo</strong>, desenvolvedor <strong>Full Stack & Mobile</strong>
-  e fundador da <a href="https://devstep.com.br"><strong>Devstep</strong></a>.
-  Desenvolvo aplicações web, aplicativos e e-commerces, combinando
-  cuidado visual com a implementação das funcionalidades que sustentam cada produto.
-</p>
+## Tecnologias
 
-<p>
-  Atuo da construção de interfaces às APIs, bancos de dados e integrações.
-  Meu foco é criar experiências claras para quem usa e código organizado
-  para quem dá continuidade ao projeto.
-</p>
+| Área | Tecnologias |
+| :--- | :--- |
+| **Frontend** | TypeScript, JavaScript, React, Next.js, Tailwind CSS |
+| **Mobile** | React Native, Expo |
+| **Backend** | PHP, Laravel |
+| **Bancos de dados** | MySQL, PostgreSQL |
+| **CMS & E-commerce** | WordPress, OpenCart, Magento |
 
-<br>
+## Produtos em destaque
 
-<sub>02 / TRABALHOS SELECIONADOS</sub>
+### Cofri
+**Gestão financeira pessoal**
 
-<h2>Da ideia à experiência.</h2>
+Aplicação para organizar contas, acompanhar despesas e receitas e planejar objetivos financeiros.
 
-<p>
-  Uma seleção de interfaces e projetos que desenvolvi.
-  No portfólio, apresento mais detalhes sobre cada trabalho.
-</p>
+- Contas a pagar e receber, categorias e parcelamentos.
+- Gestão de cartões e acompanhamento financeiro.
+- Relatórios e visualizações para apoiar o planejamento.
 
-<p align="center">
-  <a href="https://ichumbo-portfolio.netlify.app/">
-    <img src="./images/1.png" width="49%" alt="Projeto selecionado — 01">
-  </a>
-  <a href="https://ichumbo-portfolio.netlify.app/">
-    <img src="./images/2.png" width="49%" alt="Projeto selecionado — 02">
-  </a>
-</p>
+[Conheça o Cofri ↗](https://usecofri.com.br)
 
-<p align="center">
-  <a href="https://ichumbo-portfolio.netlify.app/">
-    <img src="./images/3.png" width="49%" alt="Projeto selecionado — 03">
-  </a>
-  <a href="https://ichumbo-portfolio.netlify.app/">
-    <img src="./images/4.png" width="49%" alt="Projeto selecionado — 04">
-  </a>
-</p>
+### DragonCorp
+**Plataforma para personal trainers e alunos**
 
-<p align="center">
-  <a href="https://ichumbo-portfolio.netlify.app/">
-    <img src="./images/5.png" width="49%" alt="Projeto selecionado — 05">
-  </a>
-  <a href="https://ichumbo-portfolio.netlify.app/">
-    <img src="./images/6.png" width="49%" alt="Projeto selecionado — 06">
-  </a>
-</p>
+Aplicativo voltado à organização de treinos, avaliações e acompanhamento da evolução dos alunos.
 
-<p align="right">
-  <a href="https://ichumbo-portfolio.netlify.app/"><strong>EXPLORAR PORTFÓLIO ↗</strong></a>
-</p>
+- Prescrição e organização de treinos.
+- Avaliações, anamnese e acompanhamento de cargas.
+- Feedback e interação entre personal e aluno.
 
-<br>
+[Conheça a DragonCorp ↗](https://dragoncorp.com.br)
 
-<sub>03 / PRODUTOS</sub>
+### Reservei
+**Agendamento e gestão de serviços**
 
-<h2>Software para o dia a dia.</h2>
+Produto para ajudar profissionais a organizar atendimentos e acompanhar a rotina do negócio.
 
-<p>
-  <strong><a href="https://usecofri.com.br">Cofri ↗</a></strong><br>
-  Gestão financeira para organizar contas, acompanhar despesas e planejar objetivos.
-</p>
+- Agenda e organização dos serviços.
+- Cadastro e histórico de clientes.
+- Gestão financeira relacionada aos atendimentos.
 
-<p>
-  <strong><a href="https://dragoncorp.com.br">DragonCorp ↗</a></strong><br>
-  Treinos, avaliações e acompanhamento da evolução de personal trainers e alunos.
-</p>
+[Conheça o Reservei ↗](https://site.usereservei.com.br)
 
-<p>
-  <strong>Reservei</strong><br>
-  Agendamento e gestão de serviços para simplificar a rotina de profissionais.
-</p>
+### NutriLib
+**Descoberta e organização de receitas**
 
-<p>
-  <strong><a href="https://nutrilib.com.br">NutriLib ↗</a></strong><br>
-  Receitas, categorias e favoritos para facilitar as escolhas do dia a dia.
-</p>
+Plataforma de receitas com recursos para facilitar a busca e a organização de conteúdos culinários.
 
-<br>
+- Busca e navegação por categorias.
+- Receitas, vídeos e favoritos.
+- Recursos de acesso gratuito e Premium.
 
-<sub>04 / TECNOLOGIAS</sub>
+[Conheça a NutriLib ↗](https://nutrilib.com.br)
 
-<h2>As ferramentas por trás.</h2>
+---
 
-<p><strong>Web & interfaces</strong></p>
+## Experiência prática
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-202127?style=flat-square&logo=typescript&logoColor=A78BFA" alt="TypeScript">
-  <img src="https://img.shields.io/badge/JavaScript-202127?style=flat-square&logo=javascript&logoColor=A78BFA" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-202127?style=flat-square&logo=react&logoColor=A78BFA" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-202127?style=flat-square&logo=nextdotjs&logoColor=A78BFA" alt="Next.js">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-202127?style=flat-square&logo=tailwindcss&logoColor=A78BFA" alt="Tailwind CSS">
-</p>
+Minha atuação envolve diferentes etapas do desenvolvimento de produtos digitais:
 
-<p><strong>Mobile</strong></p>
+- **Interfaces:** implementação de layouts responsivos e componentes reutilizáveis.
+- **Aplicativos:** desenvolvimento mobile com React Native e Expo.
+- **Backend:** construção de APIs, regras de negócio e integração com bancos de dados.
+- **Integrações:** pagamentos, assinaturas, notificações e serviços externos.
+- **E-commerce:** personalização de lojas e desenvolvimento de funcionalidades.
+- **Design:** identidade visual e interfaces alinhadas à proposta de cada produto.
 
-<p>
-  <img src="https://img.shields.io/badge/React_Native-202127?style=flat-square&logo=react&logoColor=A78BFA" alt="React Native">
-  <img src="https://img.shields.io/badge/Expo-202127?style=flat-square&logo=expo&logoColor=A78BFA" alt="Expo">
-</p>
+## Como trabalho
 
-<p><strong>Back-end & dados</strong></p>
+Busco entender o problema antes de definir a solução. Na implementação, priorizo clareza na interface, organização do código e decisões que facilitem a manutenção.
 
-<p>
-  <img src="https://img.shields.io/badge/Laravel-202127?style=flat-square&logo=laravel&logoColor=A78BFA" alt="Laravel">
-  <img src="https://img.shields.io/badge/PHP-202127?style=flat-square&logo=php&logoColor=A78BFA" alt="PHP">
-  <img src="https://img.shields.io/badge/MySQL-202127?style=flat-square&logo=mysql&logoColor=A78BFA" alt="MySQL">
-  <img src="https://img.shields.io/badge/PostgreSQL-202127?style=flat-square&logo=postgresql&logoColor=A78BFA" alt="PostgreSQL">
-</p>
+Em projetos colaborativos, valorizo a troca entre design e desenvolvimento, a definição de responsabilidades e a documentação necessária para dar continuidade ao trabalho.
 
-<p><strong>CMS & e-commerce</strong></p>
+---
 
-<p>
-  WordPress &nbsp; / &nbsp; Elementor &nbsp; / &nbsp; OpenCart &nbsp; / &nbsp; Magento
-</p>
+## Vamos conversar?
 
-<br>
+Tenho interesse em oportunidades como **desenvolvedor Full Stack e Mobile**, colaboração com equipes e desenvolvimento de produtos digitais.
 
-<hr>
+**Rio de Janeiro, Brasil**
 
-<sub>05 / CONTATO</sub>
-
-<h2>Vamos construir algo juntos? ↗</h2>
-
-<p>
-  Tenho interesse em oportunidades como desenvolvedor Full Stack & Mobile,
-  colaboração com equipes e desenvolvimento de produtos digitais.
-</p>
-
-<p>
-  <a href="mailto:contato.ichumbo@gmail.com"><strong>contato.ichumbo@gmail.com</strong></a>
-  &nbsp; · &nbsp;
-  <a href="https://www.linkedin.com/in/ichumbo/">LinkedIn ↗</a>
-</p>
-
-<br>
-
-<p align="right">
-  <sub>CODE BY IAN &nbsp; / &nbsp; RIO DE JANEIRO, BRASIL</sub>
-</p>
+[LinkedIn](https://www.linkedin.com/in/ichumbo/) · [contato.ichumbo@gmail.com](mailto:contato.ichumbo@gmail.com)
